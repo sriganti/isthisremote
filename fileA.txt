@@ -1,0 +1,2 @@
+Hello from Srinivas Ganti.
+From the local repo -> To remote {pushing}
